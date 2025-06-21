@@ -1,7 +1,7 @@
 {
   "dialogTitle": "Ads Short",
-  "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
-  "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
+  "firebaseDbUrl": "https://adsshort-c01c7-default-rtdb.asia-southeast1.firebasedatabase.app/",
+  "tokenRequestUrl": "https://adsshort.netlify.app/.netlify/functions/request-token",
 
   "verification": {
     "useHours": true,
