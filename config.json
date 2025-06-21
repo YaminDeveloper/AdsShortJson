@@ -1,0 +1,27 @@
+{
+  "dialogTitle": "Ads Short",
+  "firebaseDbUrl": "https://adsverification-9fbd5-default-rtdb.asia-southeast1.firebasedatabase.app/",
+  "tokenRequestUrl": "https://adsverification.netlify.app/.netlify/functions/request-token",
+
+  "verification": {
+    "useHours": true,
+    "durationHours": 6,
+    "durationMinutes": 300
+  },
+
+  "links": {
+    "myAdPage": "https://www.designlabofficial.site/p/verify-page.html",
+    "joinUs": "https://t.me/DesignLabOfficialChat",
+    "contact": "https://t.me/GG_YAMIN",
+    "tutorial": "https://youtube.com/shorts/XBhxUikg0Jg?si=COU7TpRdf4-EKgT5"
+  },
+
+  "adsterraSystem": {
+    "enabled": true,
+    "adsterraVerificationUrl": "https://www.yammymods.com/p/adsterra-page.html"
+  },
+
+  "expireSystem": {
+    "enabled": false
+  }
+}
