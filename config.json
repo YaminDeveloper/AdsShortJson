@@ -1,24 +1,21 @@
 {
-  "dialogTitle": "ADS SHORT",
-  "firebaseDbUrl": "https://adsshort-c01c7-default-rtdb.asia-southeast1.firebasedatabase.app",
-  "tokenRequestUrl": "https://adsshort.netlify.app/.netlify/functions/request-token",
+  "dialogTitle": "YAMMY MODS",
+  "apiKey": "c13a6be54a41dc819547c7f6ce91d96242de3428",
+  "apiDomain": "arlinks.in",
+  "firebaseDbUrl": "https://pin-verify-1aa88-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "tokenRequestUrl": "https://pinverification.netlify.app/.netlify/functions/request-token",
 
   "verification": {
+    "longUrl": "https://pinverification.netlify.app/verify",
     "useHours": true,
     "durationHours": 6,
-    "durationMinutes": 300
+    "durationMinutes": 5
   },
 
   "links": {
-    "myAdPage": "https://www.designlabofficial.site/p/verify-page.html",
-    "joinUs": "https://t.me/DesignLabOfficialChat",
+    "joinUs": "https://t.me/YammyMods",
     "contact": "https://t.me/GG_YAMIN",
-    "tutorial": "https://youtube.com/shorts/XBhxUikg0Jg?si=COU7TpRdf4-EKgT5"
-  },
-
-  "adsterraSystem": {
-    "enabled": true,
-    "adsterraVerificationUrl": "https://www.yammymods.com/p/adsterra-page.html"
+    "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
   },
 
   "expireSystem": {
