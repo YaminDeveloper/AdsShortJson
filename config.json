@@ -4,6 +4,8 @@
   "apiDomain": "arlinks.in",
   "firebaseDbUrl": "https://adsshort-c01c7-default-rtdb.asia-southeast1.firebasedatabase.app",
   "tokenRequestUrl": "https://adsshort.netlify.app/.netlify/functions/request-token",
+  
+  "checkStatusUrl": "https://adsshort.netlify.app/.netlify/functions/check-status",
 
   "dialogSystem": {
     "enabled": true 
