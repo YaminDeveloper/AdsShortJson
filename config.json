@@ -17,6 +17,11 @@
     "durationHours": 6,
     "durationMinutes": 5
   },
+  
+  "infoMessages": {
+    "premiumMessage": "Premium Users Only",
+    "warningMessage": "Tablet, TV And VPN Not Allowed."
+  },
 
   "links": {
     "joinUs": "https://t.me/YammyMods",
